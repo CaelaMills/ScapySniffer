@@ -35,6 +35,7 @@ from edgar import * # From the EDGAR library we want to import everything: the C
 #***from edgar.xbrl import xbrldata.XBRLData # Calling the XBRLData class to parse xbrl documents
 
 import requests
+
 #***from bs4 import BeautifulSoup # pip install beautifulsoup
 
 # Tell the SEC who you are:
