@@ -291,6 +291,10 @@ download_document(fortinet_cik, fortinet_filing_number, fortinet_document_name, 
 
 
 # How can you tell when a global business is going to devalue their currency?
+# That's a matter of Predictive Modeling and is, most likely, far more complex and probably not any of my business
+# since I assume that leads to insider trading.
+
+# Let's not curiosity kill the cat.
 
 
 
