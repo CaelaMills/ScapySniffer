@@ -1,5 +1,3 @@
-# It ain't gotta be long to do damage.
-
 # This program serves as a proof-of-concept, as its primary purpose is to demonstrate the ability to capture and
 # analyze network traffic by sniffing packets and displaying their contents.
 
